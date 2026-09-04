@@ -11,5 +11,5 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Sharif Un
 I'm currently working on designing and building an automatic robot inspired by WALL-E from the ground up.
 ## 📫 Contact 
 - [LinkedIn](https://www.linkedin.com/in/venus-jamali-2b82b837b/)
-- [Email](mailto:venus.j.2007@gmail.com)
+- Email: `Venus.j.2007@gmail.com`
 
