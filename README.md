@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm an Electrical Engineering student at Sharif University of Technology interested in robotics and control. I'm currently building WALL-E, a personal robotics project, as a way to apply what I'm learning across electronics, programming, mechanical design, and autonomous systems.
 ## ⚙️ Tools & Technologies
 - C++
-- Circuit Design: Proteus, LTSpice
+- Hardware Design: Proteus, LTSpice
 - Git & GitHub
 ## 🌱 Currently Learning
 - MATLAB
