@@ -4,11 +4,6 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Sharif Un
 - C++
 - Hardware Design: Proteus, LTSpice
 - Git & GitHub
-## 🌱 Currently Learning
-- Python
-- Linux
-## 🚀 Currently Working On
-I'm currently working on designing and building an automatic robot inspired by WALL-E from the ground up.
 ## 📫 Contact 
 - Email: `Venus.j.2007@gmail.com`
 - [LinkedIn](https://www.linkedin.com/in/venus-jamali-2b82b837b/)
